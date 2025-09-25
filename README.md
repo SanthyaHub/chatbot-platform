@@ -20,6 +20,4 @@ Hi! This is my school assignment: A simple app where you sign up, make a chatbot
    - POST /chat/1 (add token): {"message": "Hi!"} → Get reply.
 
 ## Try the Live Demo
-Go to [Replit link from Step 4]—no install needed! Test the same way.
-
-Made by [Your Name] for [Class/Teacher]. Fun project! 😄
+Fun project! 😄
